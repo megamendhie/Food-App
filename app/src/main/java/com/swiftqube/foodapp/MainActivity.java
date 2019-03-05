@@ -47,7 +47,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 makePayment(amount_1); //calls payment method with amount 1
                 break;
             case R.id.btn_two:
-                makePayment(amount_2);
+                makePayment(amount_2); //calls payment method with amount 2
+                break;
         }
     }
 
