@@ -17,9 +17,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Button btnOne, btnTwo;
     final int amount_1 = 5000;
     final int amount_2 = 2500;
-    String email = "imendhie@yahoo.com";
-    String fName = "Mendhie";
-    String lName = "Emmanuel";
+    String email = "example@email.com";
+    String fName = "First_Name";
+    String lName = "Last_Name";
     String narration = "payment for food";
     String txRef;
     String country = "NG";
